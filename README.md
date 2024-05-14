@@ -1,2 +1,3 @@
-# first-repo
-I can make a repo. 
+# first repo
+print("hey")
+
